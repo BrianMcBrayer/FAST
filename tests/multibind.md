@@ -16,6 +16,7 @@
   3. 5000 BTUs
   4. 10000 BTUs
 
+## Test Metrics
 * the test begins when the view begins rendering
 * a mark is recorded when the last implicit_input_# reports that its value has changed
 * after each mark is recorded, as fast as possible, $baseValue is incremented by 1
