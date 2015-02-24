@@ -11,10 +11,10 @@
 ** another input, implicit_input_#, one-way bound to explicit_input_#
 
 * the BTUs are arranged on four views as follows:
-1. 100 BTUs
-2. 1000 BTUs
-3. 5000 BTUs
-4. 10000 BTUs
+  1. 100 BTUs
+  2. 1000 BTUs
+  3. 5000 BTUs
+  4. 10000 BTUs
 
 * the test begins when the view begins rendering
 * a mark is recorded when the last implicit_input_# reports that its value has changed
